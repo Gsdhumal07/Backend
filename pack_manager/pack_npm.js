@@ -1,0 +1,1 @@
+console.log("This file regarding the NPM : the load packet manager")
